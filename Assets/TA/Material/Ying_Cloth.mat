@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Ying_Cloth
+  m_Shader: {fileID: 4800000, guid: da5a6ea1c77ed4f47b172d7fee816940, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BaseMap:
+        m_Texture: {fileID: 2800000, guid: 043275edf5aeea84aa57e4bfc23fa5a8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FaceShadowMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _LightMap:
+        m_Texture: {fileID: 2800000, guid: 7a4212a74a12af646946a4d71c3adb3e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ShadowRampMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _BodyShadowSmooth: 0.018
+    - _ColorRange1: 0.8
+    - _ColorRange2: 0.262
+    - _ColorRange3: 0
+    - _DarkOffset1: 0.1
+    - _DarkOffset2: 0.124
+    - _DarkOffset3: 0.2
+    - _HairDarkShadowArea: 0.1
+    - _HairDarkShadowSmooth: 0.1
+    - _HairRange: 1
+    - _HairShadowSmooth: 0.1
+    - _HairSmoothShadowIntensity: 1
+    - _LightSmooth1: 0.03
+    - _LightSmooth2: 0.01
+    - _LightSmooth3: 0.01
+    - _Shininess1: 1
+    - _Shininess2: 1
+    - _Shininess3: 1
+    m_Colors:
+    - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
+    - _BrightColor1: {r: 1, g: 1, b: 1, a: 1}
+    - _BrightColor2: {r: 1, g: 1, b: 1, a: 1}
+    - _BrightColor3: {r: 1, g: 1, b: 1, a: 1}
+    - _DarkColor1: {r: 1, g: 0.882353, b: 0.78823537, a: 1}
+    - _DarkColor1_1: {r: 1, g: 0.8117648, b: 0.72156864, a: 1}
+    - _DarkColor2: {r: 0.7921569, g: 0.6828392, b: 0.741142, a: 1}
+    - _DarkColor2_1: {r: 0.79215693, g: 0.6392157, b: 0.72156864, a: 1}
+    - _DarkColor3: {r: 0.79215693, g: 0.68235296, b: 0.7411765, a: 1}
+    - _DarkColor3_1: {r: 0.79215693, g: 0.6392157, b: 0.72156864, a: 1}
+    - _SpecularColor1: {r: 1, g: 1, b: 1, a: 0}
+    - _SpecularColor2: {r: 1, g: 1, b: 1, a: 0}
+    - _SpecularColor3: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []
